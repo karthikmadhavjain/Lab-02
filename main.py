@@ -5,8 +5,7 @@
 #Section:003
 #Breakout room number:
 
-def getLettergrade():
-  grade= input('Enter your CMPSC 131 grade: ')
+def getLettergrade(grade):
   global letter_grade
   if float(grade) >= 93.00:
     letter_grade = 'A'
@@ -29,7 +28,8 @@ def getLettergrade():
   return letter_grade
 
 def run():
-  getLettergrade()
+  grade = input('Enter your CMPSC 131 grade: ')
+  getLettergrade(grade)
   print(f"Your letter grade for CMPSC 131 is {letter_grade}.")
 
 if __name__=="__main__":
