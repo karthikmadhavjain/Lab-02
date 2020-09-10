@@ -1,4 +1,4 @@
-#Author: Karthik Madhav Jain
+#Author: kmj5614@psu.edu Karthik Madhav Jain
 #Collaborator:mmm7378@psu.edu Marquis Mcmillan
 #Collaborator:drr5348@psu.edu Daniela Rigazio
 #Collaborator:ckv5108@psu.edu Chinmay Vibhute
